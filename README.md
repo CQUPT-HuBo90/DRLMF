@@ -1,5 +1,5 @@
 # DRLMF
-Source codes for paper "[Blind Quality Assessment of Wide-angle Videos Based on Deformation Representation Learning and Multi-dimensional Feature Fusion]
+Source codes for paper "2025-TCSVT-"Blind Quality Assessment of Wide-angle Videos Based on Deformation Representation Learning and Multi-dimensional Feature Fusion"
 
 ![image](https://github.com/BoHu90/DRLMF/blob/main/DRLMF_frame.png)
 
